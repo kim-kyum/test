@@ -17,8 +17,8 @@ print("Hello world!")
 #include <stdio.h>
 int main() {
    printf("Hello world!");
-   return(0);\n
+   return(0);
 }
 ```
 
-> 어렵다
+> 어렵다 ~~하기 싫다~~
